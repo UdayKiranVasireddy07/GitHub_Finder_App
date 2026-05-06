@@ -27,7 +27,7 @@ export default function About() {
       {/* Essential Links */}
       <div className="space-y-2">
         <a
-          href="https://github.com/yourusername/github-finder"
+          href="https://github.com/UdayKiranVasireddy07/GitHub_Finder_App"
           target="_blank"
           rel="noreferrer"
           className="link link-primary"
@@ -35,7 +35,7 @@ export default function About() {
           🔗 View Source on GitHub
         </a>
         <a
-          href="https://docs.github.com/en/rest"
+          href="https://github.com/UdayKiranVasireddy07/GitHub_Finder_App/blob/main/README.md"
           target="_blank"
           rel="noreferrer"
           className="link link-primary"
@@ -43,7 +43,7 @@ export default function About() {
           📘 GitHub API Documentation
         </a>
         <a
-          href="https://yourportfolio.com"
+          href="https://udaysportfoli.netlify.app"
           target="_blank"
           rel="noreferrer"
           className="link link-primary"
@@ -51,7 +51,7 @@ export default function About() {
           🌐 Visit My Portfolio
         </a>
         <a
-          href="https://www.linkedin.com/in/yourlinkedin"
+          href="https://www.linkedin.com/in/uday-kiran-vasireddy-009105354/"
           target="_blank"
           rel="noreferrer"
           className="link link-primary"
