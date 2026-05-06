@@ -14,7 +14,7 @@ function User() {
 useEffect(() => {
   getUser(params.login);
   GetRepos(params.login);
-},[]);
+},[getUser, GetRepos, params.login]);
 
   const {
     name,
