@@ -9,6 +9,7 @@ import {AlertProvider} from './context/alert/AlertContext';
 import Alert from './components/Alert';
 import { GithubProvider } from './context/github/GithubContext';
 import User from './pages/User';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 function App() {
   return (
     <GithubProvider>
@@ -29,7 +30,7 @@ function App() {
         
         <Footer />
       </div>
-   
+      <SpeedInsights />
     </Router>
     </AlertProvider>
     </GithubProvider>
